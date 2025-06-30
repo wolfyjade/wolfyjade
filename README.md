@@ -18,4 +18,5 @@ Here are some ideas to get you started:
 ## Heya, I'm jade arson.!
 
 > **side note:** my current projects are more likely to be found on [git.gay](https://git.gay/wolfyjade), and *not* on GitHub.  
+> Same goes for some of my contributions, which now are over on [Codeberg](https://codeberg.org/wolfyjade).
 > The only reason why I still use GitHub is to occasionally contribute to the one or other project.
