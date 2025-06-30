@@ -1,6 +1,6 @@
+<!--
 ## Hi there 👋
 
-<!--
 **wolfyjade/wolfyjade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Heya, I'm jade arson.!
+
+> **side note:** my current projects are more likely to be found on [git.gay](https://git.gay/wolfyjade), and *not* on GitHub.  
+> The only reason why I still use GitHub is to occasionally contribute to the one or other project.
