@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 - **pronouns:** she/her, it/its
 - **languages:** English (friends say it's native-like), German (native)
-- **skills:** sysadmining Infrastructure as a Shitpost since 2021, touching code occasionally, [configuring the hell out of my desktop setup and writing bodges to fix some issues I have](https://git.gay/wolfyjade/dotfiles), *idk what else to add (that's even remotely related to people that tend to use Git) 🥴*
+- **skills:** sysadmining [Infrastructure as a Shitpost](https://status.wolfyja.de) since 2021, touching code occasionally, [configuring the hell out of my desktop setup and writing bodges to fix some issues I have](https://git.gay/wolfyjade/dotfiles), *idk what else to add (that's even remotely related to people that tend to use Git) 🥴*
 
 ### short-ish list of projects I contributed to:
 
