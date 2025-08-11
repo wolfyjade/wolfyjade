@@ -29,6 +29,6 @@ Here are some ideas to get you started:
 
 ### short-ish list of projects I contributed to:
 
-- **[GoToSocial](https://codeberg.org/superseriousbusiness/gotosocial)** (in the form of some smaller fixes, bug reports and [writing a patchset that's currently live on gts.apicrim.es](https://git.gay/wolfyjade/gts.apicrim.es-patchset))
+- **[GoToSocial](https://codeberg.org/superseriousbusiness/gotosocial)** (in the form of some smaller fixes, bug reports and [writing a patchset that's currently live on gts.apicrim.es](https://git.gay/infrastructure-as-a-shitpost/gts.apicrim.es-patchset))
 - **[as-a-treat](https://github.com/theresnotime/as-a-treat)**, a bot posting "X can have Y, as a t(h?)reat" every 2 hours into the Fediverse (in the form of adding some treats and folks)
 - I also contributed to some smaller projects under names I no longer use ([of which one of those briefly got shown off at a GPN22 talk!](https://media.ccc.de/v/gpn22-244-bash-is-a-systems-programming-language#t=1158)), that's why I didn't include them here.
